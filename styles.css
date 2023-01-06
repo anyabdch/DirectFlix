@@ -1,0 +1,13 @@
+button {
+    background-color: palevioletred;
+    border-color: palevioletred;
+    width: 200px;
+    height: 100px;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+body {
+    text-align: center;
+    margin-top: 25%;
+}
