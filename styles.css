@@ -13,6 +13,7 @@ button {
 
 body {
     text-align: center;
+    margin-top: 25vw;
     background-image: url('bkgd.jpeg');
     background-size: 100vw 100vmin;
 }
