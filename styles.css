@@ -1,3 +1,14 @@
+a {
+    color: red;
+}
+
+body {
+    text-align: center;
+    margin-top: 40vh;
+    background-image: url('bkgd.jpeg');
+    background-size: 100vw 100vmin;
+}
+
 button {
     background-color: rgb(248, 57, 57);
     border-color: rgb(248, 57, 57);
@@ -11,20 +22,9 @@ button {
     text-align: center;
 }
 
-body {
-    text-align: center;
-    margin-top: 35vh;
-    background-image: url('bkgd.jpeg');
-    background-size: 100vw 100vmin;
-}
-
 p {
     color: rgb(248, 57, 57);
     background-color: black;
     width: max-content;
     margin: auto;
-}
-
-a {
-    color: red;
 }
