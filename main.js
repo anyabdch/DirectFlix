@@ -2660,39 +2660,9 @@ var genres = [
       "uri": "4058"
      },
      {
-      "name": "Crime Comedies from the 1930s",
-      "url": "https://www.netflix.com/browse/genre/3740",
-      "uri": "3740"
-     },
-     {
-      "name": "Crime Comedies from the 1940s",
-      "url": "https://www.netflix.com/browse/genre/3765",
-      "uri": "3765"
-     },
-     {
-      "name": "Crime Comedies from the 1950s",
-      "url": "https://www.netflix.com/browse/genre/3786",
-      "uri": "3786"
-     },
-     {
-      "name": "Crime Comedies from the 1960s",
-      "url": "https://www.netflix.com/browse/genre/3805",
-      "uri": "3805"
-     },
-     {
-      "name": "Crime Comedies from the 1970s",
-      "url": "https://www.netflix.com/browse/genre/3826",
-      "uri": "3826"
-     },
-     {
       "name": "Crime Comedies from the 1980s",
       "url": "https://www.netflix.com/browse/genre/3852",
       "uri": "3852"
-     },
-     {
-      "name": "Crime Comedies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/755",
-      "uri": "755"
      },
      {
       "name": "Crime Deadly Disasters",
@@ -7955,59 +7925,9 @@ var genres = [
       "uri": "2351"
      },
      {
-      "name": "Goofy Movies for ages 2 to 4",
-      "url": "https://www.netflix.com/browse/genre/1050",
-      "uri": "1050"
-     },
-     {
-      "name": "Goofy Movies for ages 5 to 7",
-      "url": "https://www.netflix.com/browse/genre/243",
-      "uri": "243"
-     },
-     {
-      "name": "Goofy Movies from the 1930s",
-      "url": "https://www.netflix.com/browse/genre/3455",
-      "uri": "3455"
-     },
-     {
-      "name": "Goofy Movies from the 1940s",
-      "url": "https://www.netflix.com/browse/genre/3473",
-      "uri": "3473"
-     },
-     {
-      "name": "Goofy Movies from the 1950s",
-      "url": "https://www.netflix.com/browse/genre/3495",
-      "uri": "3495"
-     },
-     {
-      "name": "Goofy Movies from the 1960s",
-      "url": "https://www.netflix.com/browse/genre/3517",
-      "uri": "3517"
-     },
-     {
-      "name": "Goofy Movies from the 1970s",
-      "url": "https://www.netflix.com/browse/genre/3549",
-      "uri": "3549"
-     },
-     {
       "name": "Goofy Movies from the 1980s",
       "url": "https://www.netflix.com/browse/genre/3577",
       "uri": "3577"
-     },
-     {
-      "name": "Goofy Movies starring Bill Murray",
-      "url": "https://www.netflix.com/browse/genre/2481",
-      "uri": "2481"
-     },
-     {
-      "name": "Goofy Movies starring Eddie Murphy",
-      "url": "https://www.netflix.com/browse/genre/2390",
-      "uri": "2390"
-     },
-     {
-      "name": "Goofy Movies starring John Candy",
-      "url": "https://www.netflix.com/browse/genre/19",
-      "uri": "19"
      },
      {
       "name": "Goofy Movies starring Will Ferrell",
@@ -11640,11 +11560,6 @@ var genres = [
       "uri": "3101"
      },
      {
-      "name": "Movies directed by Joseph L. Mankiewicz",
-      "url": "https://www.netflix.com/browse/genre/883",
-      "uri": "883"
-     },
-     {
       "name": "Movies directed by Joseph Losey",
       "url": "https://www.netflix.com/browse/genre/4336",
       "uri": "4336"
@@ -12053,11 +11968,6 @@ var genres = [
       "name": "Movies directed by William A. Graham",
       "url": "https://www.netflix.com/browse/genre/617",
       "uri": "617"
-     },
-     {
-      "name": "Movies directed by William A. Seiter",
-      "url": "https://www.netflix.com/browse/genre/573",
-      "uri": "573"
      },
      {
       "name": "Movies directed by William A. Wellman",
@@ -12483,11 +12393,6 @@ var genres = [
       "name": "Movies starring Burt Lancaster",
       "url": "https://www.netflix.com/browse/genre/4835",
       "uri": "4835"
-     },
-     {
-      "name": "Movies starring Buster Crabbe",
-      "url": "https://www.netflix.com/browse/genre/2179",
-      "uri": "2179"
      },
      {
       "name": "Movies starring C. Thomas Howell",
@@ -18510,26 +18415,6 @@ var genres = [
       "uri": "1964"
      },
      {
-      "name": "Violent Crime Comedies",
-      "url": "https://www.netflix.com/browse/genre/4270",
-      "uri": "4270"
-     },
-     {
-      "name": "Violent Crime Dramas",
-      "url": "https://www.netflix.com/browse/genre/1017",
-      "uri": "1017"
-     },
-     {
-      "name": "Violent Crime Dramas from the 1970s",
-      "url": "https://www.netflix.com/browse/genre/3422",
-      "uri": "3422"
-     },
-     {
-      "name": "Violent Crime Dramas from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/3450",
-      "uri": "3450"
-     },
-     {
       "name": "Violent Crime Movies",
       "url": "https://www.netflix.com/browse/genre/4163",
       "uri": "4163"
@@ -19273,11 +19158,6 @@ var genres = [
       "name": "Westerns starring Burt Lancaster",
       "url": "https://www.netflix.com/browse/genre/4903",
       "uri": "4903"
-     },
-     {
-      "name": "Westerns starring Buster Crabbe",
-      "url": "https://www.netflix.com/browse/genre/2599",
-      "uri": "2599"
      },
      {
       "name": "Westerns starring Clint Eastwood",
