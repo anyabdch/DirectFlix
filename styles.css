@@ -32,11 +32,12 @@ p {
 #port {
     border: none;
     background-color: rgb(56, 7, 18);
+    color: white;
     padding: 10px 5px;
     text-align: center;
     margin: 10px;
-    top: 0px;
-    left: 0px;
+    top: 0vh;
+    left: 0vw;
 }
     
     
