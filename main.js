@@ -185,11 +185,6 @@ var genres = [
       "uri": "1365"
      },
      {
-      "name": "Action & Adventure on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/2950",
-      "uri": "2950"
-     },
-     {
       "name": "Action & Adventure starring Akshay Kumar",
       "url": "https://www.netflix.com/browse/genre/901",
       "uri": "901"
@@ -1525,11 +1520,6 @@ var genres = [
       "uri": "1252"
      },
      {
-      "name": "Campy Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/806",
-      "uri": "806"
-     },
-     {
       "name": "Campy Mysteries",
       "url": "https://www.netflix.com/browse/genre/4196",
       "uri": "4196"
@@ -1933,11 +1923,6 @@ var genres = [
       "name": "Children & Family Movies from the 1980s",
       "url": "https://www.netflix.com/browse/genre/1951",
       "uri": "1951"
-     },
-     {
-      "name": "Children & Family Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/3728",
-      "uri": "3728"
      },
      {
       "name": "Children & Family Movies starring Ashley Olsen",
@@ -2745,11 +2730,6 @@ var genres = [
       "uri": "2314"
      },
      {
-      "name": "Crime Sci-Fi & Fantasy on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/4930",
-      "uri": "4930"
-     },
-     {
       "name": "Crime Sci-Fi Horror Movies",
       "url": "https://www.netflix.com/browse/genre/2769",
       "uri": "2769"
@@ -3045,11 +3025,6 @@ var genres = [
       "uri": "4979"
      },
      {
-      "name": "Critically-acclaimed Crime Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/214",
-      "uri": "214"
-     },
-     {
       "name": "Critically-acclaimed Crime Sci-Fi & Fantasy",
       "url": "https://www.netflix.com/browse/genre/638",
       "uri": "638"
@@ -3228,11 +3203,6 @@ var genres = [
       "name": "Critically-acclaimed Exciting Movies from the 1980s",
       "url": "https://www.netflix.com/browse/genre/3070",
       "uri": "3070"
-     },
-     {
-      "name": "Critically-acclaimed Exciting Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/2024",
-      "uri": "2024"
      },
      {
       "name": "Critically-acclaimed Exciting Sci-Fi & Fantasy",
@@ -3945,11 +3915,6 @@ var genres = [
       "uri": "1382"
      },
      {
-      "name": "Critically-acclaimed Sci-Fi & Fantasy on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/1557",
-      "uri": "1557"
-     },
-     {
       "name": "Critically-acclaimed Sci-Fi Thrillers",
       "url": "https://www.netflix.com/browse/genre/3660",
       "uri": "3660"
@@ -4155,11 +4120,6 @@ var genres = [
       "uri": "3715"
      },
      {
-      "name": "Critically-acclaimed Violent Crime Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/29",
-      "uri": "29"
-     },
-     {
       "name": "Critically-acclaimed Violent Independent Dramas",
       "url": "https://www.netflix.com/browse/genre/2598",
       "uri": "2598"
@@ -4178,11 +4138,6 @@ var genres = [
       "name": "Critically-acclaimed Violent Movies based on Books",
       "url": "https://www.netflix.com/browse/genre/3701",
       "uri": "3701"
-     },
-     {
-      "name": "Critically-acclaimed Violent Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/3533",
-      "uri": "3533"
      },
      {
       "name": "Critically-acclaimed Violent Psychological Movies",
@@ -4400,11 +4355,6 @@ var genres = [
       "uri": "4201"
      },
      {
-      "name": "Cult Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/4310",
-      "uri": "4310"
-     },
-     {
       "name": "Cult Psychological Horror Movies",
       "url": "https://www.netflix.com/browse/genre/186",
       "uri": "186"
@@ -4558,11 +4508,6 @@ var genres = [
       "name": "Dark Dramas from the 1980s",
       "url": "https://www.netflix.com/browse/genre/2833",
       "uri": "2833"
-     },
-     {
-      "name": "Dark Dramas on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/41",
-      "uri": "41"
      },
      {
       "name": "Dark Experimental Movies",
@@ -4755,11 +4700,6 @@ var genres = [
       "uri": "1403"
      },
      {
-      "name": "Dark Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/3169",
-      "uri": "3169"
-     },
-     {
       "name": "Dark Movies starring Robert De Niro",
       "url": "https://www.netflix.com/browse/genre/2816",
       "uri": "2816"
@@ -4825,11 +4765,6 @@ var genres = [
       "uri": "4875"
      },
      {
-      "name": "Dark Sci-Fi & Fantasy on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/2908",
-      "uri": "2908"
-     },
-     {
       "name": "Dark Sci-Fi Thrillers",
       "url": "https://www.netflix.com/browse/genre/1374",
       "uri": "1374"
@@ -4883,11 +4818,6 @@ var genres = [
       "name": "Dark Thrillers from the 1980s",
       "url": "https://www.netflix.com/browse/genre/2089",
       "uri": "2089"
-     },
-     {
-      "name": "Dark Thrillers on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/2463",
-      "uri": "2463"
      },
      {
       "name": "Dark War Documentaries",
@@ -5063,11 +4993,6 @@ var genres = [
       "name": "Documentaries from the 1980s",
       "url": "https://www.netflix.com/browse/genre/440",
       "uri": "440"
-     },
-     {
-      "name": "Documentaries on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/1406",
-      "uri": "1406"
      },
      {
       "name": "Documentaries on IMAX",
@@ -5263,16 +5188,6 @@ var genres = [
       "name": "Dramas for ages 8 to 10",
       "url": "https://www.netflix.com/browse/genre/1267",
       "uri": "1267"
-     },
-     {
-      "name": "Dramas on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/268",
-      "uri": "268"
-     },
-     {
-      "name": "Dramas on Blu-ray based on real life",
-      "url": "https://www.netflix.com/browse/genre/4829",
-      "uri": "4829"
      },
      {
       "name": "Dramas starring Abhishek Bachchan",
@@ -6160,11 +6075,6 @@ var genres = [
       "uri": "1028"
      },
      {
-      "name": "Emotional War Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/3374",
-      "uri": "3374"
-     },
-     {
       "name": "English Movies & TV",
       "url": "https://www.netflix.com/browse/genre/107548",
       "uri": "107548"
@@ -6380,11 +6290,6 @@ var genres = [
       "uri": "118"
      },
      {
-      "name": "Exciting Political Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/2726",
-      "uri": "2726"
-     },
-     {
       "name": "Exciting Sci-Fi & Fantasy",
       "url": "https://www.netflix.com/browse/genre/253",
       "uri": "253"
@@ -6513,11 +6418,6 @@ var genres = [
       "name": "Fantasy Movies from the 1980s",
       "url": "https://www.netflix.com/browse/genre/1475",
       "uri": "1475"
-     },
-     {
-      "name": "Fantasy Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/2191",
-      "uri": "2191"
      },
      {
       "name": "Feel-Good",
@@ -7700,11 +7600,6 @@ var genres = [
       "uri": "355"
      },
      {
-      "name": "Goofy Children & Family Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/958",
-      "uri": "958"
-     },
-     {
       "name": "Goofy Chinese Movies",
       "url": "https://www.netflix.com/browse/genre/4210",
       "uri": "4210"
@@ -8025,11 +7920,6 @@ var genres = [
       "uri": "2446"
      },
      {
-      "name": "Gory Action & Adventure on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/1916",
-      "uri": "1916"
-     },
-     {
       "name": "Gory Adventures",
       "url": "https://www.netflix.com/browse/genre/3369",
       "uri": "3369"
@@ -8110,11 +8000,6 @@ var genres = [
       "uri": "3769"
      },
      {
-      "name": "Gory Dramas on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/2330",
-      "uri": "2330"
-     },
-     {
       "name": "Gory Foreign Crime Movies from the 1980s",
       "url": "https://www.netflix.com/browse/genre/3157",
       "uri": "3157"
@@ -8133,11 +8018,6 @@ var genres = [
       "name": "Gory Foreign Thrillers",
       "url": "https://www.netflix.com/browse/genre/537",
       "uri": "537"
-     },
-     {
-      "name": "Gory Horror Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/3086",
-      "uri": "3086"
      },
      {
       "name": "Gory Independent Comedies",
@@ -8183,11 +8063,6 @@ var genres = [
       "name": "Gory Military Action & Adventure",
       "url": "https://www.netflix.com/browse/genre/4162",
       "uri": "4162"
-     },
-     {
-      "name": "Gory Military Action & Adventure on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/2057",
-      "uri": "2057"
      },
      {
       "name": "Gory Monster Movies",
@@ -8285,11 +8160,6 @@ var genres = [
       "uri": "3485"
      },
      {
-      "name": "Gory War Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/4465",
-      "uri": "4465"
-     },
-     {
       "name": "Gory War Sci-Fi & Fantasy",
       "url": "https://www.netflix.com/browse/genre/4884",
       "uri": "4884"
@@ -8313,11 +8183,6 @@ var genres = [
       "name": "Greek-Language Dramas",
       "url": "https://www.netflix.com/browse/genre/2431",
       "uri": "2431"
-     },
-     {
-      "name": "Gritty Action & Adventure on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/3554",
-      "uri": "3554"
      },
      {
       "name": "Gritty Action & Adventure starring John Wayne",
@@ -8435,11 +8300,6 @@ var genres = [
       "uri": "732"
      },
      {
-      "name": "Gritty Crime Action & Adventure on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/1818",
-      "uri": "1818"
-     },
-     {
       "name": "Gritty Crime Dramas",
       "url": "https://www.netflix.com/browse/genre/4500",
       "uri": "4500"
@@ -8468,16 +8328,6 @@ var genres = [
       "name": "Gritty Crime Dramas from the 1980s",
       "url": "https://www.netflix.com/browse/genre/2162",
       "uri": "2162"
-     },
-     {
-      "name": "Gritty Crime Dramas on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/3280",
-      "uri": "3280"
-     },
-     {
-      "name": "Gritty Crime Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/50",
-      "uri": "50"
      },
      {
       "name": "Gritty Crime Sci-Fi & Fantasy",
@@ -8805,26 +8655,6 @@ var genres = [
       "uri": "2820"
      },
      {
-      "name": "Gritty Movies from the 1930s",
-      "url": "https://www.netflix.com/browse/genre/3784",
-      "uri": "3784"
-     },
-     {
-      "name": "Gritty Movies from the 1940s",
-      "url": "https://www.netflix.com/browse/genre/3801",
-      "uri": "3801"
-     },
-     {
-      "name": "Gritty Movies from the 1950s",
-      "url": "https://www.netflix.com/browse/genre/3823",
-      "uri": "3823"
-     },
-     {
-      "name": "Gritty Movies from the 1960s",
-      "url": "https://www.netflix.com/browse/genre/3851",
-      "uri": "3851"
-     },
-     {
       "name": "Gritty Movies from the 1970s",
       "url": "https://www.netflix.com/browse/genre/3872",
       "uri": "3872"
@@ -8833,11 +8663,6 @@ var genres = [
       "name": "Gritty Movies from the 1980s",
       "url": "https://www.netflix.com/browse/genre/3904",
       "uri": "3904"
-     },
-     {
-      "name": "Gritty Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/132",
-      "uri": "132"
      },
      {
       "name": "Gritty Movies starring Clint Eastwood",
@@ -9063,11 +8888,6 @@ var genres = [
       "name": "Heartfelt Independent Movies",
       "url": "https://www.netflix.com/browse/genre/2415",
       "uri": "2415"
-     },
-     {
-      "name": "Heartfelt Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/3938",
-      "uri": "3938"
      },
      {
       "name": "Heartfelt Sports Movies",
@@ -9365,11 +9185,6 @@ var genres = [
       "uri": "1541"
      },
      {
-      "name": "Imaginative Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/3632",
-      "uri": "3632"
-     },
-     {
       "name": "Imaginative Sci-Fi & Fantasy",
       "url": "https://www.netflix.com/browse/genre/3998",
       "uri": "3998"
@@ -9378,11 +9193,6 @@ var genres = [
       "name": "Imaginative Sci-Fi & Fantasy based on Books",
       "url": "https://www.netflix.com/browse/genre/2092",
       "uri": "2092"
-     },
-     {
-      "name": "Imaginative Sci-Fi & Fantasy on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/3619",
-      "uri": "3619"
      },
      {
       "name": "Imaginative Time Travel Movies",
@@ -9470,11 +9280,6 @@ var genres = [
       "uri": "4245"
      },
      {
-      "name": "Independent Crime Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/1029",
-      "uri": "1029"
-     },
-     {
       "name": "Independent Crime Thrillers from the 1980s",
       "url": "https://www.netflix.com/browse/genre/1063",
       "uri": "1063"
@@ -9498,11 +9303,6 @@ var genres = [
       "name": "Independent Dramas based on Books",
       "url": "https://www.netflix.com/browse/genre/3339",
       "uri": "3339"
-     },
-     {
-      "name": "Independent Dramas on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/223",
-      "uri": "223"
      },
      {
       "name": "Independent Late Night Comedies",
@@ -9788,11 +9588,6 @@ var genres = [
       "name": "Inspiring Movies for ages 5 to 7",
       "url": "https://www.netflix.com/browse/genre/4561",
       "uri": "4561"
-     },
-     {
-      "name": "Inspiring Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/1286",
-      "uri": "1286"
      },
      {
       "name": "Inspiring Political Documentaries",
@@ -10793,11 +10588,6 @@ var genres = [
       "name": "Military Movies from the 1980s",
       "url": "https://www.netflix.com/browse/genre/812",
       "uri": "812"
-     },
-     {
-      "name": "Military Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/4867",
-      "uri": "4867"
      },
      {
       "name": "Military Science & Nature Documentaries",
@@ -12070,21 +11860,6 @@ var genres = [
       "uri": "81397794"
      },
      {
-      "name": "Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/1033",
-      "uri": "1033"
-     },
-     {
-      "name": "Movies on Blu-ray based on real life",
-      "url": "https://www.netflix.com/browse/genre/4690",
-      "uri": "4690"
-     },
-     {
-      "name": "Movies on Blu-ray for ages 5 to 7",
-      "url": "https://www.netflix.com/browse/genre/1354",
-      "uri": "1354"
-     },
-     {
       "name": "Movies on IMAX",
       "url": "https://www.netflix.com/browse/genre/339",
       "uri": "339"
@@ -12403,11 +12178,6 @@ var genres = [
       "name": "Movies starring Cameron Mitchell",
       "url": "https://www.netflix.com/browse/genre/1796",
       "uri": "1796"
-     },
-     {
-      "name": "Movies starring Carmen Maura",
-      "url": "https://www.netflix.com/browse/genre/4222",
-      "uri": "4222"
      },
      {
       "name": "Movies starring Carol Burnett",
@@ -14190,11 +13960,6 @@ var genres = [
       "uri": "884"
      },
      {
-      "name": "Mysteries on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/695",
-      "uri": "695"
-     },
-     {
       "name": "Mysteries starring Nigel Bruce",
       "url": "https://www.netflix.com/browse/genre/1505",
       "uri": "1505"
@@ -14323,11 +14088,6 @@ var genres = [
       "name": "Polish-Language Movies & TV",
       "url": "https://www.netflix.com/browse/genre/107559",
       "uri": "107559"
-     },
-     {
-      "name": "Political Action & Adventure on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/3689",
-      "uri": "3689"
      },
      {
       "name": "Political Comedies",
@@ -14495,11 +14255,6 @@ var genres = [
       "uri": "1429"
      },
      {
-      "name": "Psychological Thrillers on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/1779",
-      "uri": "1779"
-     },
-     {
       "name": "Punjabi Movies & TV Shows",
       "url": "https://www.netflix.com/browse/genre/107466",
       "uri": "107466"
@@ -14598,11 +14353,6 @@ var genres = [
       "name": "Quirky Crime Movies based on Books",
       "url": "https://www.netflix.com/browse/genre/1529",
       "uri": "1529"
-     },
-     {
-      "name": "Quirky Crime Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/1887",
-      "uri": "1887"
      },
      {
       "name": "Quirky Crime Satires",
@@ -14785,11 +14535,6 @@ var genres = [
       "uri": "4910"
      },
      {
-      "name": "Quirky Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/3306",
-      "uri": "3306"
-     },
-     {
       "name": "Quirky Mysteries",
       "url": "https://www.netflix.com/browse/genre/3658",
       "uri": "3658"
@@ -14888,11 +14633,6 @@ var genres = [
       "name": "Raunchy B-Horror Movies",
       "url": "https://www.netflix.com/browse/genre/1659",
       "uri": "1659"
-     },
-     {
-      "name": "Raunchy Comedies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/2969",
-      "uri": "2969"
      },
      {
       "name": "Raunchy Crime Action & Adventure",
@@ -15490,11 +15230,6 @@ var genres = [
       "uri": "4922"
      },
      {
-      "name": "Satires on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/1197",
-      "uri": "1197"
-     },
-     {
       "name": "Satires starring Leslie Nielsen",
       "url": "https://www.netflix.com/browse/genre/332",
       "uri": "332"
@@ -15555,11 +15290,6 @@ var genres = [
       "uri": "4153"
      },
      {
-      "name": "Scary Action & Adventure on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/3023",
-      "uri": "3023"
-     },
-     {
       "name": "Scary Action Sci-Fi & Fantasy",
       "url": "https://www.netflix.com/browse/genre/1453",
       "uri": "1453"
@@ -15603,11 +15333,6 @@ var genres = [
       "name": "Scary Crime Movies based on Books",
       "url": "https://www.netflix.com/browse/genre/4060",
       "uri": "4060"
-     },
-     {
-      "name": "Scary Crime Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/2110",
-      "uri": "2110"
      },
      {
       "name": "Scary Crime Sci-Fi & Fantasy",
@@ -15885,11 +15610,6 @@ var genres = [
       "uri": "4682"
      },
      {
-      "name": "Scary Sci-Fi & Fantasy on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/395",
-      "uri": "395"
-     },
-     {
       "name": "Scary Sci-Fi Horror Movies",
       "url": "https://www.netflix.com/browse/genre/2263",
       "uri": "2263"
@@ -15985,11 +15705,6 @@ var genres = [
       "uri": "2627"
      },
      {
-      "name": "Sci-Fi & Fantasy on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/3418",
-      "uri": "3418"
-     },
-     {
       "name": "Sci-Fi & Fantasy starring Christopher Lambert",
       "url": "https://www.netflix.com/browse/genre/1630",
       "uri": "1630"
@@ -16070,11 +15785,6 @@ var genres = [
       "uri": "4206"
      },
      {
-      "name": "Sci-Fi Thrillers on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/1757",
-      "uri": "1757"
-     },
-     {
       "name": "Science",
       "url": "https://www.netflix.com/browse/genre/4975",
       "uri": "4975"
@@ -16098,11 +15808,6 @@ var genres = [
       "name": "Science & Nature Documentaries from the 1980s",
       "url": "https://www.netflix.com/browse/genre/3262",
       "uri": "3262"
-     },
-     {
-      "name": "Science & Nature Documentaries on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/1298",
-      "uri": "1298"
      },
      {
       "name": "Science & Nature TV",
@@ -16223,11 +15928,6 @@ var genres = [
       "name": "Sentimental Dramas for ages 11 to 12",
       "url": "https://www.netflix.com/browse/genre/4859",
       "uri": "4859"
-     },
-     {
-      "name": "Sentimental Dramas on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/2505",
-      "uri": "2505"
      },
      {
       "name": "Sentimental Foreign Movies from the 1980s",
@@ -16410,11 +16110,6 @@ var genres = [
       "uri": "2499"
      },
      {
-      "name": "Slapstick Comedies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/3409",
-      "uri": "3409"
-     },
-     {
       "name": "Slapstick Comedies starring Moe Howard",
       "url": "https://www.netflix.com/browse/genre/2764",
       "uri": "2764"
@@ -16423,11 +16118,6 @@ var genres = [
       "name": "Slasher and Serial Killer Movies",
       "url": "https://www.netflix.com/browse/genre/8646",
       "uri": "8646"
-     },
-     {
-      "name": "Slasher and Serial Killer Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/3636",
-      "uri": "3636"
      },
      {
       "name": "Soccer",
@@ -16623,11 +16313,6 @@ var genres = [
       "name": "Sports Movies from the 1980s",
       "url": "https://www.netflix.com/browse/genre/850",
       "uri": "850"
-     },
-     {
-      "name": "Sports Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/4104",
-      "uri": "4104"
      },
      {
       "name": "Sports Tearjerkers",
@@ -17165,11 +16850,6 @@ var genres = [
       "uri": "3794"
      },
      {
-      "name": "Suspenseful Comic Book and Superhero Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/4907",
-      "uri": "4907"
-     },
-     {
       "name": "Suspenseful Courtroom Dramas",
       "url": "https://www.netflix.com/browse/genre/1390",
       "uri": "1390"
@@ -17238,11 +16918,6 @@ var genres = [
       "name": "Suspenseful Dramas from the 1980s",
       "url": "https://www.netflix.com/browse/genre/1450",
       "uri": "1450"
-     },
-     {
-      "name": "Suspenseful Dramas on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/1727",
-      "uri": "1727"
      },
      {
       "name": "Suspenseful Foreign Comedies",
@@ -17330,19 +17005,9 @@ var genres = [
       "uri": "3267"
      },
      {
-      "name": "Suspenseful Military Action & Adventure on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/679",
-      "uri": "679"
-     },
-     {
       "name": "Suspenseful Military Movies based on Books",
       "url": "https://www.netflix.com/browse/genre/4551",
       "uri": "4551"
-     },
-     {
-      "name": "Suspenseful Military Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/4439",
-      "uri": "4439"
      },
      {
       "name": "Suspenseful Movies",
@@ -17393,16 +17058,6 @@ var genres = [
       "name": "Suspenseful Movies for ages 11 to 12",
       "url": "https://www.netflix.com/browse/genre/2290",
       "uri": "2290"
-     },
-     {
-      "name": "Suspenseful Movies on Blu-ray based on Books",
-      "url": "https://www.netflix.com/browse/genre/675",
-      "uri": "675"
-     },
-     {
-      "name": "Suspenseful Movies on Blu-ray from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/4181",
-      "uri": "4181"
      },
      {
       "name": "Suspenseful Movies starring Antonio Banderas",
@@ -17593,11 +17248,6 @@ var genres = [
       "name": "Suspenseful Sci-Fi & Fantasy based on Books",
       "url": "https://www.netflix.com/browse/genre/3927",
       "uri": "3927"
-     },
-     {
-      "name": "Suspenseful Sci-Fi & Fantasy on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/4534",
-      "uri": "4534"
      },
      {
       "name": "Suspenseful Sci-Fi Dramas",
@@ -18375,11 +18025,6 @@ var genres = [
       "uri": "1080194"
      },
      {
-      "name": "Violent Action & Adventure on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/3288",
-      "uri": "3288"
-     },
-     {
       "name": "Violent Action Sci-Fi & Fantasy",
       "url": "https://www.netflix.com/browse/genre/2040",
       "uri": "2040"
@@ -18540,11 +18185,6 @@ var genres = [
       "uri": "4779"
      },
      {
-      "name": "Violent Military Dramas on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/402",
-      "uri": "402"
-     },
-     {
       "name": "Violent Military Movies based on real life",
       "url": "https://www.netflix.com/browse/genre/1392",
       "uri": "1392"
@@ -18563,11 +18203,6 @@ var genres = [
       "name": "Violent Movies based on real life",
       "url": "https://www.netflix.com/browse/genre/4978",
       "uri": "4978"
-     },
-     {
-      "name": "Violent Movies on Blu-ray from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/2059",
-      "uri": "2059"
      },
      {
       "name": "Violent Movies starring Arnold Schwarzenegger",
@@ -18630,19 +18265,9 @@ var genres = [
       "uri": "441"
      },
      {
-      "name": "Violent War Dramas on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/4487",
-      "uri": "4487"
-     },
-     {
       "name": "Violent War Movies",
       "url": "https://www.netflix.com/browse/genre/1725",
       "uri": "1725"
-     },
-     {
-      "name": "Violent War Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/104",
-      "uri": "104"
      },
      {
       "name": "Violent War Sci-Fi & Fantasy",
@@ -18653,11 +18278,6 @@ var genres = [
       "name": "Violent Westerns",
       "url": "https://www.netflix.com/browse/genre/2651",
       "uri": "2651"
-     },
-     {
-      "name": "Visually-striking Action & Adventure on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/4246",
-      "uri": "4246"
      },
      {
       "name": "Visually-striking Biographical Dramas",
@@ -18728,11 +18348,6 @@ var genres = [
       "name": "Visually-striking Dramas",
       "url": "https://www.netflix.com/browse/genre/3438",
       "uri": "3438"
-     },
-     {
-      "name": "Visually-striking Dramas on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/1924",
-      "uri": "1924"
      },
      {
       "name": "Visually-striking Emotional Dramas",
@@ -18835,11 +18450,6 @@ var genres = [
       "uri": "4314"
      },
      {
-      "name": "Visually-striking Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/4231",
-      "uri": "4231"
-     },
-     {
       "name": "Visually-striking Psychological Thrillers",
       "url": "https://www.netflix.com/browse/genre/1435",
       "uri": "1435"
@@ -18850,11 +18460,6 @@ var genres = [
       "uri": "2957"
      },
      {
-      "name": "Visually-striking Scary Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/1404",
-      "uri": "1404"
-     },
-     {
       "name": "Visually-striking Scary Sci-Fi & Fantasy",
       "url": "https://www.netflix.com/browse/genre/1841",
       "uri": "1841"
@@ -18863,11 +18468,6 @@ var genres = [
       "name": "Visually-striking Sci-Fi & Fantasy",
       "url": "https://www.netflix.com/browse/genre/4677",
       "uri": "4677"
-     },
-     {
-      "name": "Visually-striking Sci-Fi & Fantasy on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/1728",
-      "uri": "1728"
      },
      {
       "name": "Visually-striking Sci-Fi Films",
@@ -18903,11 +18503,6 @@ var genres = [
       "name": "Visually-striking Suspenseful Movies",
       "url": "https://www.netflix.com/browse/genre/2104",
       "uri": "2104"
-     },
-     {
-      "name": "Visually-striking Suspenseful Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/1125",
-      "uri": "1125"
      },
      {
       "name": "Visually-striking Suspenseful Sci-Fi & Fantasy",
@@ -18965,11 +18560,6 @@ var genres = [
       "uri": "554"
      },
      {
-      "name": "War Dramas on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/2843",
-      "uri": "2843"
-     },
-     {
       "name": "War Movies",
       "url": "https://www.netflix.com/browse/genre/3373",
       "uri": "3373"
@@ -19013,11 +18603,6 @@ var genres = [
       "name": "War Movies from the 1980s",
       "url": "https://www.netflix.com/browse/genre/4272",
       "uri": "4272"
-     },
-     {
-      "name": "War Movies on Blu-ray",
-      "url": "https://www.netflix.com/browse/genre/4274",
-      "uri": "4274"
      },
      {
       "name": "War Sci-Fi & Fantasy",
