@@ -1485,11 +1485,6 @@ var genres = [
       "uri": "3750"
      },
      {
-      "name": "Campy Independent Crime Comedies",
-      "url": "https://www.netflix.com/browse/genre/1176",
-      "uri": "1176"
-     },
-     {
       "name": "Campy Independent Dramas",
       "url": "https://www.netflix.com/browse/genre/4562",
       "uri": "4562"
@@ -9100,11 +9095,6 @@ var genres = [
       "uri": "260"
      },
      {
-      "name": "Imaginative Crime Movies",
-      "url": "https://www.netflix.com/browse/genre/4358",
-      "uri": "4358"
-     },
-     {
       "name": "Imaginative Crime Sci-Fi & Fantasy",
       "url": "https://www.netflix.com/browse/genre/1807",
       "uri": "1807"
@@ -13390,11 +13380,6 @@ var genres = [
       "uri": "2339"
      },
      {
-      "name": "Movies starring Rajendra Kumar",
-      "url": "https://www.netflix.com/browse/genre/1246",
-      "uri": "1246"
-     },
-     {
       "name": "Movies starring Rakhee Gulzar",
       "url": "https://www.netflix.com/browse/genre/733",
       "uri": "733"
@@ -14415,11 +14400,6 @@ var genres = [
       "uri": "2352"
      },
      {
-      "name": "Quirky Foreign Thrillers",
-      "url": "https://www.netflix.com/browse/genre/2688",
-      "uri": "2688"
-     },
-     {
       "name": "Quirky Gay & Lesbian Dramas",
       "url": "https://www.netflix.com/browse/genre/3171",
       "uri": "3171"
@@ -15143,11 +15123,6 @@ var genres = [
       "name": "Romantic War Movies",
       "url": "https://www.netflix.com/browse/genre/2618",
       "uri": "2618"
-     },
-     {
-      "name": "Romantic War Movies based on Books",
-      "url": "https://www.netflix.com/browse/genre/2899",
-      "uri": "2899"
      },
      {
       "name": "Russian",
