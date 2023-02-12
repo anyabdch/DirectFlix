@@ -3270,41 +3270,6 @@ var genres = [
       "uri": "4645"
      },
      {
-      "name": "Critically-acclaimed Foreign Movies from the 1920s",
-      "url": "https://www.netflix.com/browse/genre/3148",
-      "uri": "3148"
-     },
-     {
-      "name": "Critically-acclaimed Foreign Movies from the 1930s",
-      "url": "https://www.netflix.com/browse/genre/3176",
-      "uri": "3176"
-     },
-     {
-      "name": "Critically-acclaimed Foreign Movies from the 1940s",
-      "url": "https://www.netflix.com/browse/genre/3192",
-      "uri": "3192"
-     },
-     {
-      "name": "Critically-acclaimed Foreign Movies from the 1950s",
-      "url": "https://www.netflix.com/browse/genre/3218",
-      "uri": "3218"
-     },
-     {
-      "name": "Critically-acclaimed Foreign Movies from the 1960s",
-      "url": "https://www.netflix.com/browse/genre/3235",
-      "uri": "3235"
-     },
-     {
-      "name": "Critically-acclaimed Foreign Movies from the 1970s",
-      "url": "https://www.netflix.com/browse/genre/3271",
-      "uri": "3271"
-     },
-     {
-      "name": "Critically-acclaimed Foreign Movies from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/3301",
-      "uri": "3301"
-     },
-     {
       "name": "Critically-acclaimed Foreign Political Dramas",
       "url": "https://www.netflix.com/browse/genre/4934",
       "uri": "4934"
@@ -5155,11 +5120,6 @@ var genres = [
       "uri": "2956"
      },
      {
-      "name": "Dramas directed by Stephen Frears",
-      "url": "https://www.netflix.com/browse/genre/992",
-      "uri": "992"
-     },
-     {
       "name": "Dramas directed by Steven Soderbergh",
       "url": "https://www.netflix.com/browse/genre/4855",
       "uri": "4855"
@@ -5548,11 +5508,6 @@ var genres = [
       "name": "Dramas starring Mira Sorvino",
       "url": "https://www.netflix.com/browse/genre/1579",
       "uri": "1579"
-     },
-     {
-      "name": "Dramas starring Morgan Freeman",
-      "url": "https://www.netflix.com/browse/genre/4229",
-      "uri": "4229"
      },
      {
       "name": "Dramas starring Naseeruddin Shah",
@@ -7690,11 +7645,6 @@ var genres = [
       "uri": "2265"
      },
      {
-      "name": "Goofy Crime Dramas",
-      "url": "https://www.netflix.com/browse/genre/2272",
-      "uri": "2272"
-     },
-     {
       "name": "Goofy Crime Movies from the 1940s",
       "url": "https://www.netflix.com/browse/genre/1622",
       "uri": "1622"
@@ -8273,11 +8223,6 @@ var genres = [
       "name": "Gritty Courtroom Dramas",
       "url": "https://www.netflix.com/browse/genre/1891",
       "uri": "1891"
-     },
-     {
-      "name": "Gritty Courtroom Movies",
-      "url": "https://www.netflix.com/browse/genre/2835",
-      "uri": "2835"
      },
      {
       "name": "Gritty Crime Action & Adventure from the 1960s",
@@ -14433,11 +14378,6 @@ var genres = [
       "name": "Quirky Independent Comedies",
       "url": "https://www.netflix.com/browse/genre/147",
       "uri": "147"
-     },
-     {
-      "name": "Quirky Independent Crime Action & Adventure",
-      "url": "https://www.netflix.com/browse/genre/3775",
-      "uri": "3775"
      },
      {
       "name": "Quirky Independent Crime Comedies",
