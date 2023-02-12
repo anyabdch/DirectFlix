@@ -110,11 +110,6 @@ var genres = [
       "uri": "1442"
      },
      {
-      "name": "Action & Adventure directed by Howard Hawks",
-      "url": "https://www.netflix.com/browse/genre/3700",
-      "uri": "3700"
-     },
-     {
       "name": "Action & Adventure directed by J. Lee Thompson",
       "url": "https://www.netflix.com/browse/genre/2913",
       "uri": "2913"
@@ -10690,31 +10685,6 @@ var genres = [
       "uri": "1089"
      },
      {
-      "name": "Mind-bending Movies based on Books",
-      "url": "https://www.netflix.com/browse/genre/176",
-      "uri": "176"
-     },
-     {
-      "name": "Mind-bending Movies from the 1960s",
-      "url": "https://www.netflix.com/browse/genre/4640",
-      "uri": "4640"
-     },
-     {
-      "name": "Mind-bending Movies from the 1970s",
-      "url": "https://www.netflix.com/browse/genre/4673",
-      "uri": "4673"
-     },
-     {
-      "name": "Mind-bending Movies from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/4702",
-      "uri": "4702"
-     },
-     {
-      "name": "Mind-bending Political Movies",
-      "url": "https://www.netflix.com/browse/genre/1424",
-      "uri": "1424"
-     },
-     {
       "name": "Mind-bending Psychological Dramas",
       "url": "https://www.netflix.com/browse/genre/3426",
       "uri": "3426"
@@ -10725,11 +10695,6 @@ var genres = [
       "uri": "847"
      },
      {
-      "name": "Mind-bending Psychological Movies from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/936",
-      "uri": "936"
-     },
-     {
       "name": "Mind-bending Psychological Sci-Fi & Fantasy",
       "url": "https://www.netflix.com/browse/genre/3774",
       "uri": "3774"
@@ -10738,11 +10703,6 @@ var genres = [
       "name": "Mind-bending Psychological Sci-Fi Thrillers",
       "url": "https://www.netflix.com/browse/genre/1665",
       "uri": "1665"
-     },
-     {
-      "name": "Mind-bending Sci-Fi & Fantasy from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/2387",
-      "uri": "2387"
      },
      {
       "name": "Mind-bending War Movies",
@@ -14255,11 +14215,6 @@ var genres = [
       "uri": "4656"
      },
      {
-      "name": "Quirky Children & Family Movies from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/2005",
-      "uri": "2005"
-     },
-     {
       "name": "Quirky Comedies directed by Woody Allen",
       "url": "https://www.netflix.com/browse/genre/347",
       "uri": "347"
@@ -15635,11 +15590,6 @@ var genres = [
       "uri": "1388"
      },
      {
-      "name": "Sci-Fi Adventure for ages 8 to 10",
-      "url": "https://www.netflix.com/browse/genre/3507",
-      "uri": "3507"
-     },
-     {
       "name": "Sci-Fi Anime",
       "url": "https://www.netflix.com/browse/genre/2729",
       "uri": "2729"
@@ -15650,34 +15600,9 @@ var genres = [
       "uri": "3916"
      },
      {
-      "name": "Sci-Fi Dramas from the 1970s",
-      "url": "https://www.netflix.com/browse/genre/805",
-      "uri": "805"
-     },
-     {
-      "name": "Sci-Fi Dramas from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/829",
-      "uri": "829"
-     },
-     {
       "name": "Sci-Fi Horror",
       "url": "https://www.netflix.com/browse/genre/1694",
       "uri": "1694"
-     },
-     {
-      "name": "Sci-Fi Horror Movies from the 1950s",
-      "url": "https://www.netflix.com/browse/genre/3944",
-      "uri": "3944"
-     },
-     {
-      "name": "Sci-Fi Horror Movies from the 1960s",
-      "url": "https://www.netflix.com/browse/genre/3965",
-      "uri": "3965"
-     },
-     {
-      "name": "Sci-Fi Horror Movies from the 1970s",
-      "url": "https://www.netflix.com/browse/genre/3991",
-      "uri": "3991"
      },
      {
       "name": "Sci-Fi Horror Movies from the 1980s",
@@ -17508,11 +17433,6 @@ var genres = [
       "name": "Travel & Adventure Documentaries",
       "url": "https://www.netflix.com/browse/genre/1159",
       "uri": "1159"
-     },
-     {
-      "name": "Travel & Adventure Documentaries from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/4838",
-      "uri": "4838"
      },
      {
       "name": "Travel & Adventure Documentaries on IMAX",
