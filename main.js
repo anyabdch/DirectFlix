@@ -1185,24 +1185,9 @@ var genres = [
       "uri": "702"
      },
      {
-      "name": "British Dramas from the 1940s",
-      "url": "https://www.netflix.com/browse/genre/3864",
-      "uri": "3864"
-     },
-     {
       "name": "British Dramas from the 1960s",
       "url": "https://www.netflix.com/browse/genre/3924",
       "uri": "3924"
-     },
-     {
-      "name": "British Dramas from the 1970s",
-      "url": "https://www.netflix.com/browse/genre/3953",
-      "uri": "3953"
-     },
-     {
-      "name": "British Dramas from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/3974",
-      "uri": "3974"
      },
      {
       "name": "British Education for Kids",
@@ -2088,11 +2073,6 @@ var genres = [
       "name": "Classic Westerns",
       "url": "https://www.netflix.com/browse/genre/47465",
       "uri": "47465"
-     },
-     {
-      "name": "Classical Instrumental Music",
-      "url": "https://www.netflix.com/browse/genre/218",
-      "uri": "218"
      },
      {
       "name": "Comedies",
@@ -5878,11 +5858,6 @@ var genres = [
       "name": "Emotional Epics",
       "url": "https://www.netflix.com/browse/genre/52982",
       "uri": "52982"
-     },
-     {
-      "name": "Emotional Foreign Crime Movies",
-      "url": "https://www.netflix.com/browse/genre/2256",
-      "uri": "2256"
      },
      {
       "name": "Emotional Foreign Movies",
@@ -10895,11 +10870,6 @@ var genres = [
       "uri": "1901"
      },
      {
-      "name": "Movies directed by Charles Walters",
-      "url": "https://www.netflix.com/browse/genre/4503",
-      "uri": "4503"
-     },
-     {
       "name": "Movies directed by Cheh Chang",
       "url": "https://www.netflix.com/browse/genre/391",
       "uri": "391"
@@ -11685,46 +11655,6 @@ var genres = [
       "uri": "527"
      },
      {
-      "name": "Movies for ages 0 to 2",
-      "url": "https://www.netflix.com/browse/genre/6796",
-      "uri": "6796"
-     },
-     {
-      "name": "Movies for ages 11 to 12",
-      "url": "https://www.netflix.com/browse/genre/6962",
-      "uri": "6962"
-     },
-     {
-      "name": "Movies for ages 2 to 4",
-      "url": "https://www.netflix.com/browse/genre/6218",
-      "uri": "6218"
-     },
-     {
-      "name": "Movies for ages 5 to 7",
-      "url": "https://www.netflix.com/browse/genre/5455",
-      "uri": "5455"
-     },
-     {
-      "name": "Movies for ages 8 to 10",
-      "url": "https://www.netflix.com/browse/genre/561",
-      "uri": "561"
-     },
-     {
-      "name": "Movies from the 1910s",
-      "url": "https://www.netflix.com/browse/genre/2466",
-      "uri": "2466"
-     },
-     {
-      "name": "Movies from the 1920s",
-      "url": "https://www.netflix.com/browse/genre/2489",
-      "uri": "2489"
-     },
-     {
-      "name": "Movies from the 1930s",
-      "url": "https://www.netflix.com/browse/genre/2510",
-      "uri": "2510"
-     },
-     {
       "name": "Movies from the 1940s",
       "url": "https://www.netflix.com/browse/genre/2533",
       "uri": "2533"
@@ -11938,11 +11868,6 @@ var genres = [
       "name": "Movies starring Ashok Kumar",
       "url": "https://www.netflix.com/browse/genre/88",
       "uri": "88"
-     },
-     {
-      "name": "Movies starring Audrey Hepburn",
-      "url": "https://www.netflix.com/browse/genre/3061",
-      "uri": "3061"
      },
      {
       "name": "Movies starring Basil Rathbone",
@@ -18710,39 +18635,9 @@ var genres = [
       "uri": "3566"
      },
      {
-      "name": "Witty Detective Movies",
-      "url": "https://www.netflix.com/browse/genre/2346",
-      "uri": "2346"
-     },
-     {
       "name": "Witty Documentaries",
       "url": "https://www.netflix.com/browse/genre/3311",
       "uri": "3311"
-     },
-     {
-      "name": "Witty Dramas from the 1940s",
-      "url": "https://www.netflix.com/browse/genre/3314",
-      "uri": "3314"
-     },
-     {
-      "name": "Witty Dramas from the 1950s",
-      "url": "https://www.netflix.com/browse/genre/3342",
-      "uri": "3342"
-     },
-     {
-      "name": "Witty Dramas from the 1960s",
-      "url": "https://www.netflix.com/browse/genre/3371",
-      "uri": "3371"
-     },
-     {
-      "name": "Witty Dramas from the 1970s",
-      "url": "https://www.netflix.com/browse/genre/3400",
-      "uri": "3400"
-     },
-     {
-      "name": "Witty Dramas from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/3424",
-      "uri": "3424"
      },
      {
       "name": "Witty Foreign Dramas",
