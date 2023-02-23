@@ -1220,29 +1220,9 @@ var genres = [
       "uri": "4991"
      },
      {
-      "name": "British Horror Movies from the 1960s",
-      "url": "https://www.netflix.com/browse/genre/570",
-      "uri": "570"
-     },
-     {
-      "name": "British Horror Movies from the 1970s",
-      "url": "https://www.netflix.com/browse/genre/602",
-      "uri": "602"
-     },
-     {
       "name": "British Independent Crime Movies",
       "url": "https://www.netflix.com/browse/genre/2962",
       "uri": "2962"
-     },
-     {
-      "name": "British Independent Dramas from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/2285",
-      "uri": "2285"
-     },
-     {
-      "name": "British Independent Movies from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/286",
-      "uri": "286"
      },
      {
       "name": "British Independent Political Movies",
@@ -1275,19 +1255,9 @@ var genres = [
       "uri": "100398"
      },
      {
-      "name": "British Movies based on a book from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/4515",
-      "uri": "4515"
-     },
-     {
       "name": "British Movies based on Books",
       "url": "https://www.netflix.com/browse/genre/811",
       "uri": "811"
-     },
-     {
-      "name": "British Movies for ages 2 to 4",
-      "url": "https://www.netflix.com/browse/genre/745",
-      "uri": "745"
      },
      {
       "name": "British Mysteries",
@@ -1860,24 +1830,9 @@ var genres = [
       "uri": "2210"
      },
      {
-      "name": "Children & Family Movies directed by Roger McIntosh",
-      "url": "https://www.netflix.com/browse/genre/2821",
-      "uri": "2821"
-     },
-     {
       "name": "Children & Family Movies directed by Vic Finch",
       "url": "https://www.netflix.com/browse/genre/4342",
       "uri": "4342"
-     },
-     {
-      "name": "Children & Family Movies from the 1930s",
-      "url": "https://www.netflix.com/browse/genre/1831",
-      "uri": "1831"
-     },
-     {
-      "name": "Children & Family Movies from the 1940s",
-      "url": "https://www.netflix.com/browse/genre/1860",
-      "uri": "1860"
      },
      {
       "name": "Children & Family Movies from the 1950s",
@@ -5478,11 +5433,6 @@ var genres = [
       "name": "Dramas starring Meryl Streep",
       "url": "https://www.netflix.com/browse/genre/1805",
       "uri": "1805"
-     },
-     {
-      "name": "Dramas starring Mira Sorvino",
-      "url": "https://www.netflix.com/browse/genre/1579",
-      "uri": "1579"
      },
      {
       "name": "Dramas starring Naseeruddin Shah",
@@ -14280,19 +14230,9 @@ var genres = [
       "uri": "4100"
      },
      {
-      "name": "Quirky Independent Dramas from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/139",
-      "uri": "139"
-     },
-     {
       "name": "Quirky Independent Movies based on Books",
       "url": "https://www.netflix.com/browse/genre/3523",
       "uri": "3523"
-     },
-     {
-      "name": "Quirky Independent Showbiz Comedies",
-      "url": "https://www.netflix.com/browse/genre/1012",
-      "uri": "1012"
      },
      {
       "name": "Quirky Independent Showbiz Dramas",
@@ -14800,11 +14740,6 @@ var genres = [
       "uri": "1786"
      },
      {
-      "name": "Romantic Independent Biographical Movies",
-      "url": "https://www.netflix.com/browse/genre/2831",
-      "uri": "2831"
-     },
-     {
       "name": "Romantic Independent Coming-of-age Movies",
       "url": "https://www.netflix.com/browse/genre/2665",
       "uri": "2665"
@@ -14823,11 +14758,6 @@ var genres = [
       "name": "Romantic Independent Movies",
       "url": "https://www.netflix.com/browse/genre/9916",
       "uri": "9916"
-     },
-     {
-      "name": "Romantic Independent Movies from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/2662",
-      "uri": "2662"
      },
      {
       "name": "Romantic Independent Political Dramas",
@@ -15863,16 +15793,6 @@ var genres = [
       "name": "Slapstick Comedies directed by Blake Edwards",
       "url": "https://www.netflix.com/browse/genre/3942",
       "uri": "3942"
-     },
-     {
-      "name": "Slapstick Comedies for ages 11 to 12",
-      "url": "https://www.netflix.com/browse/genre/2093",
-      "uri": "2093"
-     },
-     {
-      "name": "Slapstick Comedies for ages 5 to 7",
-      "url": "https://www.netflix.com/browse/genre/2499",
-      "uri": "2499"
      },
      {
       "name": "Slapstick Comedies starring Moe Howard",
