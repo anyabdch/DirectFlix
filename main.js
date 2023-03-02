@@ -3420,16 +3420,6 @@ var genres = [
       "uri": "3721"
      },
      {
-      "name": "Critically-acclaimed Horror Movies from the 1960s",
-      "url": "https://www.netflix.com/browse/genre/4247",
-      "uri": "4247"
-     },
-     {
-      "name": "Critically-acclaimed Horror Movies from the 1970s",
-      "url": "https://www.netflix.com/browse/genre/4281",
-      "uri": "4281"
-     },
-     {
       "name": "Critically-acclaimed Horror Movies from the 1980s",
       "url": "https://www.netflix.com/browse/genre/4306",
       "uri": "4306"
@@ -4985,11 +4975,6 @@ var genres = [
       "uri": "1240"
      },
      {
-      "name": "Dramas directed by James Ivory",
-      "url": "https://www.netflix.com/browse/genre/1046",
-      "uri": "1046"
-     },
-     {
       "name": "Dramas directed by Jean-Luc Godard",
       "url": "https://www.netflix.com/browse/genre/3598",
       "uri": "3598"
@@ -5843,31 +5828,6 @@ var genres = [
       "name": "Emotional Movies based on children’s books",
       "url": "https://www.netflix.com/browse/genre/905",
       "uri": "905"
-     },
-     {
-      "name": "Emotional Movies for ages 11 to 12",
-      "url": "https://www.netflix.com/browse/genre/2568",
-      "uri": "2568"
-     },
-     {
-      "name": "Emotional Movies from the 1920s",
-      "url": "https://www.netflix.com/browse/genre/1601",
-      "uri": "1601"
-     },
-     {
-      "name": "Emotional Movies from the 1930s",
-      "url": "https://www.netflix.com/browse/genre/1637",
-      "uri": "1637"
-     },
-     {
-      "name": "Emotional Movies from the 1940s",
-      "url": "https://www.netflix.com/browse/genre/1662",
-      "uri": "1662"
-     },
-     {
-      "name": "Emotional Movies from the 1950s",
-      "url": "https://www.netflix.com/browse/genre/1691",
-      "uri": "1691"
      },
      {
       "name": "Emotional Movies from the 1960s",
@@ -11260,11 +11220,6 @@ var genres = [
       "uri": "3639"
      },
      {
-      "name": "Movies directed by Nathan Juran",
-      "url": "https://www.netflix.com/browse/genre/477",
-      "uri": "477"
-     },
-     {
       "name": "Movies directed by Norman Jewison",
       "url": "https://www.netflix.com/browse/genre/4565",
       "uri": "4565"
@@ -12708,11 +12663,6 @@ var genres = [
       "name": "Movies starring Juliette Binoche",
       "url": "https://www.netflix.com/browse/genre/4966",
       "uri": "4966"
-     },
-     {
-      "name": "Movies starring Kajol",
-      "url": "https://www.netflix.com/browse/genre/2045",
-      "uri": "2045"
      },
      {
       "name": "Movies starring Kamal Hassan",
@@ -16253,11 +16203,6 @@ var genres = [
       "name": "Steamy French-Language Gay & Lesbian Movies",
       "url": "https://www.netflix.com/browse/genre/2524",
       "uri": "2524"
-     },
-     {
-      "name": "Steamy Gay & Lesbian Movies from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/4324",
-      "uri": "4324"
      },
      {
       "name": "Steamy German-Language Movies",
