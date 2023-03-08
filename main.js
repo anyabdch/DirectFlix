@@ -3710,16 +3710,6 @@ var genres = [
       "uri": "4653"
      },
      {
-      "name": "Critically-acclaimed Romantic Dramas from the 1940s",
-      "url": "https://www.netflix.com/browse/genre/3470",
-      "uri": "3470"
-     },
-     {
-      "name": "Critically-acclaimed Romantic Dramas from the 1950s",
-      "url": "https://www.netflix.com/browse/genre/3492",
-      "uri": "3492"
-     },
-     {
       "name": "Critically-acclaimed Romantic Dramas from the 1980s",
       "url": "https://www.netflix.com/browse/genre/3574",
       "uri": "3574"
@@ -5553,11 +5543,6 @@ var genres = [
       "name": "Dramas starring Srikanth",
       "url": "https://www.netflix.com/browse/genre/3565",
       "uri": "3565"
-     },
-     {
-      "name": "Dramas starring Sunil Dutt",
-      "url": "https://www.netflix.com/browse/genre/4759",
-      "uri": "4759"
      },
      {
       "name": "Dramas starring Sunny Deol",
@@ -12088,11 +12073,6 @@ var genres = [
       "name": "Movies starring Dean Jones",
       "url": "https://www.netflix.com/browse/genre/2584",
       "uri": "2584"
-     },
-     {
-      "name": "Movies starring Dean Stockwell",
-      "url": "https://www.netflix.com/browse/genre/3569",
-      "uri": "3569"
      },
      {
       "name": "Movies starring Debbie Reynolds",
