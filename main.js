@@ -2985,31 +2985,6 @@ var genres = [
       "uri": "1280"
      },
      {
-      "name": "Critically-acclaimed Dark Dramas from the 1940s",
-      "url": "https://www.netflix.com/browse/genre/2669",
-      "uri": "2669"
-     },
-     {
-      "name": "Critically-acclaimed Dark Dramas from the 1950s",
-      "url": "https://www.netflix.com/browse/genre/2698",
-      "uri": "2698"
-     },
-     {
-      "name": "Critically-acclaimed Dark Dramas from the 1960s",
-      "url": "https://www.netflix.com/browse/genre/2721",
-      "uri": "2721"
-     },
-     {
-      "name": "Critically-acclaimed Dark Dramas from the 1970s",
-      "url": "https://www.netflix.com/browse/genre/2745",
-      "uri": "2745"
-     },
-     {
-      "name": "Critically-acclaimed Dark Dramas from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/2766",
-      "uri": "2766"
-     },
-     {
       "name": "Critically-acclaimed Dark Foreign Movies",
       "url": "https://www.netflix.com/browse/genre/1952",
       "uri": "1952"
@@ -13905,21 +13880,6 @@ var genres = [
       "uri": "396"
      },
      {
-      "name": "Psychological Mysteries from the 1940s",
-      "url": "https://www.netflix.com/browse/genre/4826",
-      "uri": "4826"
-     },
-     {
-      "name": "Psychological Mysteries from the 1970s",
-      "url": "https://www.netflix.com/browse/genre/4899",
-      "uri": "4899"
-     },
-     {
-      "name": "Psychological Mysteries from the 1980s",
-      "url": "https://www.netflix.com/browse/genre/4921",
-      "uri": "4921"
-     },
-     {
       "name": "Psychological Satanic Stories",
       "url": "https://www.netflix.com/browse/genre/1567",
       "uri": "1567"
@@ -16790,11 +16750,6 @@ var genres = [
       "uri": "3075"
      },
      {
-      "name": "Suspenseful Political Dramas based on Books",
-      "url": "https://www.netflix.com/browse/genre/2511",
-      "uri": "2511"
-     },
-     {
       "name": "Suspenseful Political Movies",
       "url": "https://www.netflix.com/browse/genre/82",
       "uri": "82"
@@ -18310,29 +18265,9 @@ var genres = [
       "uri": "3207"
      },
      {
-      "name": "Westerns from the 1930s",
-      "url": "https://www.netflix.com/browse/genre/372",
-      "uri": "372"
-     },
-     {
-      "name": "Westerns from the 1940s",
-      "url": "https://www.netflix.com/browse/genre/398",
-      "uri": "398"
-     },
-     {
-      "name": "Westerns from the 1950s",
-      "url": "https://www.netflix.com/browse/genre/419",
-      "uri": "419"
-     },
-     {
       "name": "Westerns from the 1960s",
       "url": "https://www.netflix.com/browse/genre/445",
       "uri": "445"
-     },
-     {
-      "name": "Westerns from the 1970s",
-      "url": "https://www.netflix.com/browse/genre/473",
-      "uri": "473"
      },
      {
       "name": "Westerns from the 1980s",
@@ -18543,11 +18478,6 @@ var genres = [
       "name": "Witty Independent Satires",
       "url": "https://www.netflix.com/browse/genre/1011",
       "uri": "1011"
-     },
-     {
-      "name": "Witty Independent Showbiz Dramas",
-      "url": "https://www.netflix.com/browse/genre/424",
-      "uri": "424"
      },
      {
       "name": "Witty Mockumentaries",
