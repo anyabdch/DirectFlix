@@ -39,5 +39,9 @@ p {
     top: 0vh;
     left: 0vw;
 }
+
+#random {
+    cursor: pointer;
+}
     
     
